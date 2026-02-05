@@ -1,0 +1,12 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
+# Ignore processed data (generated files)
+data/processed/*
+!data/processed/.gitkeep
+
